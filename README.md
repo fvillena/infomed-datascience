@@ -1,1 +1,1 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fvillena/infomed-datascience/main
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fvillena/infomed-datascience/main)
