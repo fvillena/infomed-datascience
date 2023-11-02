@@ -1,6 +1,6 @@
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/fvillena/infomed-datascience/main)
 
-# Matemáticas para la Bioestadística
+# Ciencia de Datos para Informática Médica
 
 _Fabián Villena, MSc_
 
